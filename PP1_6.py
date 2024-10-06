@@ -37,7 +37,7 @@ def q4():
   num4= float(num4)
   print(int(num3*num4))
 
-q1()
-q2()
-q3()
-q4()
+# q1()
+# q2()
+# q3()
+# q4()
