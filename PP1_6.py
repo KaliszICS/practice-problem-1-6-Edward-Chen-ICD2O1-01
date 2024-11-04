@@ -11,7 +11,7 @@ def q1():
   num2 = input("Input a number: ")
   num1=int(num1)
   num2=int(num2)
-  print(f"Your number is: {num1 + num2}")
+  print(num1 + num2)
 
 # From input recieve two integers.  Output the quotient rounded down.
 
